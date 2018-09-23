@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloCallback</string>
+    <string name="newMessage">Hello new world!</string>
+</resources>
